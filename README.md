@@ -7,4 +7,4 @@ Sou Desenvolvedora Fullstack em formação Kenzie Academy e estou no mundo da pr
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/brendansantana?style=social)](https://twitter.com/brendansantana)
-[![Linkedin: brenda](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/inluan-campos-developer/)](https://www.linkedin.com/in/luan-campos-developer/)
+[![Linkedin: luan](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/inluan-campos-developer/)](https://www.linkedin.com/in/luan-campos-developer/)
