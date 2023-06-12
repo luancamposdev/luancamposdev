@@ -1,7 +1,7 @@
 ### Olá! 👋
 
-Sou Luan Campos, atualmente moroem Aparecida de Goiânia - Goiás, Brasil!
-Sou Desenvolvedora Fullstack em formação Kenzie Academy e estou no mundo da programação desde 2018.
+Sou Luan Campos, atualmente moro em Aparecida de Goiânia - Goiás, Brasil!
+Sou Desenvolvedor Fullstack em formação na Kenzie Academy e estou no mundo da programação desde 2018.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luancamposdev&langs_count=8&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
