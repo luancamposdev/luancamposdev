@@ -6,7 +6,7 @@
 
 Atualmenteembusca de minha primeira oportunidade de trabalho como desenvolvedor front end
 
-I'm learning at the moment **ReactNative, ReactJS, Bun**
+Estou aprendendo no momento **ReactNative, ReactJS, Next, Bun**
 
 
 [![Linkedin: luan](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/inluan-campos-developer/)](https://www.linkedin.com/in/luan-campos-developer/)
