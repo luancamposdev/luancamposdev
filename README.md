@@ -1,7 +1,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=luancamposdev" alt="luancampos" /></p>
 
 
-<h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Eu souo Luan</h1>
+<h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Eu sou Luan</h1>
 <p align = "justify">Front-end Developer, Amante de café, fã de Javascript e suas tecnologias, curioso em performance. Atualmente apaixonado por NextJS e Programação Reativa</p>
 
 Atualmenteembusca de minha primeira oportunidade de trabalho como desenvolvedor front end
