@@ -12,7 +12,7 @@ Estou aprendendo no momento **ReactNative, ReactJS, Next, Bun**
 [![Linkedin: luan](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/inluan-campos-developer/)](https://www.linkedin.com/in/luan-campos-developer/)
 [![Gmail Badge](https://img.shields.io/badge/-luancamposproducoes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luancamposproducoes@gmail.com)](mailto:luancamposproducoes@gmail.com)
 
-## 🚀💻 Technologies & Tools
+## 🚀💻 Tecnologias e ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -32,7 +32,7 @@ Estou aprendendo no momento **ReactNative, ReactJS, Next, Bun**
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## ⚡ GitHub Stats
+## ⚡ Estatísticas do GitHub
 
 ![](https://github-readme-stats.vercel.app/api?username=luancamposdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=luancamposdev&theme=dark&hide_border=false)<br/>
