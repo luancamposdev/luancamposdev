@@ -2,9 +2,9 @@
   <img src="https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=" alt="Software Developer">
 </div>
 
-# [Luan Campos]
+# Luan Campos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luan-Campos-blue?logo=linkedin)](https://www.linkedin.com/in/luan-campos-developer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-luancamposdeveloper-blue?logo=linkedin)](https://www.linkedin.com/in/[SeuPerfil])
 [![Website](https://img.shields.io/badge/Website-[SeuWebsite]-blue?logo=google-chrome)](https://www.[seusite.com])
 
 ## 👋 Olá!
