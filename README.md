@@ -4,7 +4,7 @@
 
 # [Luan Campos]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin.com/in/luan-campos-developer-blue?logo=linkedin)](https://www.linkedin.com/in/[SeuPerfil])
+[![LinkedIn](https://img.shields.io/badge/linkedin.com/in/luan-campos-developer-blue?logo=linkedin)](https://www.linkedin.com/in/[SeuPerfil])
 [![Website](https://img.shields.io/badge/Website-[SeuWebsite]-blue?logo=google-chrome)](https://www.[seusite.com])
 
 ## 👋 Olá!
