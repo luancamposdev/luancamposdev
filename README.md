@@ -35,4 +35,4 @@ Conhecimento em **ReactJS, NextJS, NestJS, ReactNative, NodeJS, Prisma, GraphQL,
 ## ⚡ Estatísticas do GitHub
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=luancamposdev&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=luancamposdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=luancamposdeveloper&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
