@@ -16,7 +16,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
 
 - Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=go,javascript,typescript,python,)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,python,go)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
     [![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)
