@@ -19,10 +19,10 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
     [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,python,go)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nestjs,jquery,electron,tailwindcss,shadcn)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nestjs,jquery,electron,tailwindcss)](https://skillicons.dev)
 - Dados: 
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
     [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)
