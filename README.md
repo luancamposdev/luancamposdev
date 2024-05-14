@@ -5,7 +5,7 @@
 # Luan Campos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luancamposdeveloper-blue?logo=linkedin)](https://www.linkedin.com/in/luan-campos-developer)
-[![Website](https://img.shields.io/badge/Website-[SeuWebsite]-blue?logo=google-chrome)](https://www.[seusite.com])
+[![Gmail Badge](https://img.shields.io/badge/-luancamposdeveloper@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:luancamposdeveloper@gmail.com)
 
 ## 👋 Olá!
 
