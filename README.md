@@ -22,7 +22,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
     [![My Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs,nestjs,jquery,electron,tailwindcss)](https://skillicons.dev)
 - Dados: 
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres,prisma)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongo,postgres,prisma)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
     [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,cloudflare,kubernetes)](https://skillicons.dev)
