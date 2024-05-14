@@ -6,8 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luancamposdeveloper-blue?logo=linkedin)](https://www.linkedin.com/in/luan-campos-developer)
 [![Gmail Badge](https://img.shields.io/badge/-luancamposdeveloper@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:luancamposdeveloper@gmail.com)
-[![YouTube](https://img.shields.io/badge/-Luan&nbsp;Campos-red?style=flat-square&logo=YouTube&logoColor=white&link=[{Link}](https://www.youtube.com/@luancamposdeveloper))]([{Link}](https://www.youtube.com/@luancamposdeveloper))
-[![Twitter Follow](https://img.shields.io/twitter/follow/LuanCamposdevel?style=social)]([{Link}](https://twitter.com/LuanCamposdevel))
+[![YouTube](https://img.shields.io/badge/-Luan&nbsp;Campos-red?style=flat-square&logo=YouTube&logoColor=white&link=[{Link}](https://www.youtube.com/@luancamposdeveloper))](https://www.youtube.com/@luancamposdeveloper)
+[![Twitter Follow](https://img.shields.io/twitter/follow/LuanCamposdevel?style=social)](https://twitter.com/LuanCamposdevel)
 
 ## 👋 Olá!
 
