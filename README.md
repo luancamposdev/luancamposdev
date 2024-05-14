@@ -1,38 +1,41 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=luancamposdev" alt="luancampos" /></p>
+<div align="center">
+  <img src="https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=" alt="Software Developer">
+</div>
+
+# [Luan Campos]
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin.com/in/luan-campos-developer-blue?logo=linkedin)](https://www.linkedin.com/in/[SeuPerfil])
+[![Website](https://img.shields.io/badge/Website-[SeuWebsite]-blue?logo=google-chrome)](https://www.[seusite.com])
+
+## 👋 Olá!
+
+Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções inovadoras e impactantes. Com uma sólida formação em programação e uma mente curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.
+
+## 🚀 Habilidades Técnicas
+
+- Linguagens de Programação: 
+
+    [![My Skills](https://skillicons.dev/icons?i=java,javascript,python)](https://skillicons.dev)
+- Frameworks e Bibliotecas: 
+
+    [![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)
+- Dados: 
+
+    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
+- Ferramentas e Tecnologias: 
+
+    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)
+- Desenvolvimento Web:
+
+    [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
+
+## 🏆 Projetos Destacados
+
+- [Projeto 1](https://github.com/[seu-usuario]/projeto1): Uma descrição breve do projeto e suas principais características.
+- [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma descrição breve do projeto e suas principais características.
+- [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma descrição breve do projeto e suas principais características.
 
 
-<h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Eu sou Luan</h1>
-<p align = "justify">FullStack Developer, Amante de café, fã de Javascript e suas tecnologias, curioso em performance. Atualmente apaixonado por NextJS e Programação Reativa</p>
+Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
 
-Atualmente em busca de minha primeira oportunidade de trabalho como desenvolvedor front end
-
-Estou aprendendo no momento **ReactJS, ReactNative, NextJS, NestJS, NodeJS, Typescript, Prisma, Postgres, MongoDB, Mysql, Docker**
-
-
-[![Linkedin: luan](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-campos-developer/)](https://www.linkedin.com/in/luan-campos-developer/)
-[![Gmail Badge](https://img.shields.io/badge/-luancamposdeveloper@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luancamposdeveloper@gmail.com)](mailto:luancamposdeveloper@gmail.com)
-
-## 🚀💻 Tecnologias e ferramentas
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-## ⚡ Estatísticas do GitHub
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=luancamposdev&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=luancamposdeveloper&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=merko)
