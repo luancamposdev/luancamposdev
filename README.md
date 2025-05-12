@@ -11,8 +11,7 @@
 
 ## 👋 Olá!
 
-Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções inovadoras e impactantes. Com uma sólida formação em programação e uma mente curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.
-
+Sou desenvolvedor com mentalidade inquieta e voltada à inovação. Gosto de criar soluções que não apenas funcionam, mas fazem diferença — combinando tecnologia, propósito e desempenho.
 ## 🚀 Habilidades Técnicas
 
 - Linguagens de Programação: 
