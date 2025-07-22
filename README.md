@@ -32,9 +32,10 @@ Sou desenvolvedor com mentalidade inquieta e voltada à inovação. Gosto de cri
 
 ## 🏆 Projetos Destacados
 
+- [Cotton Byte News]([https://github.com/[seu-usuario]/projeto3](https://github.com/luancamposdev/cotton-byte-news)): Uma descrição breve do projeto e suas principais características.
+- - [Astro Notification API](https://github.com/luancamposdev/astro-notification-api): Astro Notification API é um sistema de notificações backend, desenvolvido com NestJS e Prisma, oferecendo envio, cancelamento e consulta de notificações de forma eficiente.
 - [CRNotes Markdown](https://github.com/luancamposdev/cr-notes): Editor de Markdown desenvolvido utilizando Electron.js, React, Jotai e MDXEditor. A aplicação permite que os usuários criem e editem documentos em Markdown de forma intuitiva, proporcionando uma experiência de edição.
-- [Astro Notification API](https://github.com/luancamposdev/astro-notification-api): Astro Notification API é um sistema de notificações backend, desenvolvido com NestJS e Prisma, oferecendo envio, cancelamento e consulta de notificações de forma eficiente.
-- [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma descrição breve do projeto e suas principais características.
+
 
 
 Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
